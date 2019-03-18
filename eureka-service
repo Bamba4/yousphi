@@ -1,5 +1,0 @@
-server.port=8761
-#Pour eviter l'auto enregistrement
-eureka.client.fetch-registry=false
-
-eureka.client.register-with-eureka=false
